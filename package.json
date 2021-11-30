@@ -1,0 +1,23 @@
+{
+  "name": "jestch",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colmhaugh/jestCH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colmhaugh/jestCH/issues"
+  },
+  "homepage": "https://github.com/colmhaugh/jestCH#readme"
+}
